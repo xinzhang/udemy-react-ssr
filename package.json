@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
+    "dev:build:server": "webpack --config webpack.server.js"
   },
   "dependencies": {
     "axios": "0.16.2",
